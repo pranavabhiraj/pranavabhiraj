@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranavabhiraj
 - 👀 I’m interested in ... web designing
-- 🌱 I’m currently learning ... css,javascript,python
-- 💞️ I’m looking to collaborate on ... website designing
+- 🌱 I’m currently learning ... Cyber Security
 - 📫 How to reach me ... 7903118710
 
 <!---
