@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavabhiraj
-- 👀 I’m interested in ... web designing
+- 👀 I’m interested in ... Learning Ethical hacking
 - 🌱 I’m currently learning ... Cyber Security
 - 📫 How to reach me ... 7903118710
 
